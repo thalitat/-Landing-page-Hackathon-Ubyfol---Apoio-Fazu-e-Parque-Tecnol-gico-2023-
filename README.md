@@ -1,27 +1,29 @@
-# HackathonUbyfol
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+<h1>Landing page  Hackathon Ubyfol - (Apoio Fazu e Parque Tecnológico 2023)<h1></h1>
 
-## Development server
+Equipe e Contribuidores
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Negócios/Requisitos (Product Manager): Thalita Oliveira
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Desenvolvimento/Design: Matheus Sizervinks (https://github.com/MathSZVKS)
 
-## Code scaffolding
+Desenvolvimento/Design: Wallace Bertolaccini (https://github.com/MusashiD)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Build
+Desempenhei o papel de Product Manager neste projeto, sendo a principal responsável pela liderança estratégica e coordenação eficaz de todas as etapas do desenvolvimento da landing page para o Hackathon Ubyfol 2023. Minhas atribuições abrangentes incluíram:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Definição de Requisitos: responsável por compreender completamente as necessidades do cliente e os objetivos do projeto, traduzindo-os em requisitos claros e específicos para a equipe de desenvolvimento.
 
-## Running unit tests
+Priorização do Backlog: Utilizando sua expertise em gestão de produtos, priorizei meticulosamente o backlog de recursos, identificando e destacando as funcionalidades mais críticas e valiosas para a entrega inicial.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Comunicação com Stakeholders:Realizei uma comunicação eficaz com todas as partes interessadas, garantindo que suas expectativas fossem gerenciadas de forma adequada e que suas necessidades fossem atendidas ao longo do projeto.
 
-## Running end-to-end tests
+Gestão de Prazos e Entregas: Como líder do projeto, fui responsável por estabelecer e cumprir os prazos estabelecidos, garantindo que a equipe permanecesse focada e que as entregas fossem realizadas dentro do cronograma.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Além disso, liderei o processo de validação e iterativo, garantindo que a landing page atendesse às expectativas dos usuários e estivesse alinhada com os objetivos do evento.
 
-## Further help
+----------------------------------------------------------------------------------------------------------------------------------------------
+<h1> Repositório do Projeto </h1>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+O código-fonte deste projeto está disponível no seguinte repositório: https://github.com/MathSZVKS/hackatonUbyfol
